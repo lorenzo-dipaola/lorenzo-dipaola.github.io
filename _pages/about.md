@@ -1,4 +1,3 @@
-yaml
 ---
 title: "About"
 permalink: /about/
@@ -12,3 +11,4 @@ My research lies at the intersection of media sociology, comics studies, and vis
 I am the author of the monograph *L’inafferrabile medium* (2019) and a co-founder of the research network **SNIF – Studying ’n’ Investigating Fumetti**.
 
 I am currently leading the FNRS-funded project **ViVo – Visualising Voices**.
+
