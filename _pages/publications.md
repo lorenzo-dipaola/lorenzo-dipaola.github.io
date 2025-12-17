@@ -26,8 +26,8 @@ Rizzi, G. B., & Di Paola, L. (2025). *Ghosts of Our Lives: A Hauntological Readi
 (https://cinergie.unibo.it/article/view/21677/20055) 
 
 Di Paola, L., & Busi Rizzi, G. (2024). *Post-apocalyptic and integrated? A mediological analysis of Gipi’s La terra dei figli*.  
-**Apocalypse, Hope, and Dystopia between Fiction and Society**, XI, 111–122.  
-[Publisher page]
+**Futuri**, XI, 111–122.  
+(https://www.futuri-journal.org/index.php/futuri/article/view/190/220)
 
 Di Paola, L., & Van De Wiele, E. (2024). *La bande chantée: tradition orale et croyances pédagogiques dans le Corriere dei Piccoli*.  
 **Comicalités. Études de culture graphique**.  
