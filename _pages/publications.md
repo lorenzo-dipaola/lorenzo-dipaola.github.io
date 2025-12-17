@@ -21,7 +21,7 @@ Di Paola, L., & Busi Rizzi, G. (2025). *Calypsis. Submerged Worlds and the Post-
 **Between**, 15(30), 63–83.  
 [Full text](https://ojs.unica.it/index.php/between/article/view/6643/6475)
 
-Rizzi, G. B., & Di Paola, L. (2025). *Ghosts of Our Lives: A Hauntological Reading of Multiverse Fiction in Contemporary Verbo-Visual Media*.  
+Busi Rizzi, G., & Di Paola, L. (2025). *Ghosts of Our Lives: A Hauntological Reading of Multiverse Fiction in Contemporary Verbo-Visual Media*.  
 **Cinergie – Il cinema e le altre arti**, 27, 113–127.  
 [Full text](https://cinergie.unibo.it/article/view/21677/20055)
 
@@ -45,7 +45,7 @@ Di Paola, L., & Tirino, M. (2023). *A Cyberpunk Symphony of Dystopian Nightmares
 **Studies in Comics**, 14(1), 15–28.  
 [Publisher page](https://intellectdiscover.com/content/journals/10.1386/stic_00097_1)
 
-Rizzi, G. B., & Di Paola, L. (2023). *Tous les garçons et les filles de mon âge? Comics as a Nexus to Italian Youth Media Cultures and Generational Imaginaries*.  
+Busi Rizzi, G., & Di Paola, L. (2023). *Tous les garçons et les filles de mon âge? Comics as a Nexus to Italian Youth Media Cultures and Generational Imaginaries*. 
 **Elephant & Castle**, 30, 148–160.  
 [Full text](https://elephantandcastle.unibg.it/index.php/eac/article/view/456/390)
 
@@ -57,7 +57,7 @@ Centorrino, M., & Di Paola, L. (2022). *L’opera d’arte nell’era della sua 
 **Im@go. A Journal of the Social Imaginary**, 19, 195–209.  
 [Full text](https://cab.unime.it/journals/index.php/IMAGO/article/view/3583/pdf)
 
-Rizzi, G. B., & Di Paola, L. (2022). *The Dawn of the Living Communities: For a Mediological Analysis of Horror Fandom in Dylan Dog*.  
+Busi Rizzi, G., & Di Paola, L. (2022). *The Dawn of the Living Communities: For a Mediological Analysis of Horror Fandom in Dylan Dog*.  
 **H-ermes: Journal of Communication**, 21.  
 [Full text](http://siba-ese.unisalento.it/index.php/h-ermes/article/view/25559/21207)
 
@@ -70,7 +70,7 @@ Tirino, M., & Di Paola, L. (2018). *Chris Ware e la costruzione dello spazio riz
 
 ## Book chapters
 
-Rizzi, G. B., & Di Paola, L. (2025). *Digitalian Comics: Italian Digital Comics’ Path from National Tradition to Platform Society*.  
+Busi Rizzi, G., & Di Paola, L. (2025). *Digitalian Comics: Italian Digital Comics’ Path from National Tradition to Platform Society*.  
 In **Italian Comics in the New Millennium. Vol. 2: New Scenarios, New Forms, New Themes**. Vernon Press.
 
 ---
