@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lorenzo Di Paola"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "FNRS Postdoctoral Researcher in media sociology and comics studies"
   location         : "Bruxelles"
   employer         : "Université libre de Bruxelles"
   uri              : # URL
