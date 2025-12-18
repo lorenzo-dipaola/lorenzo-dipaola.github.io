@@ -1,11 +1,11 @@
 ---
+layout: single
 title: "ViVo – Visualizing Voices"
 description: "ViVo (Visualizing Voices) is a research project on Corriere dei Piccoli, oral culture, childhood, and the transformation of Italian comics within media ecology."
----
-
 permalink: /projects/vivo/
 author_profile: true
 ---
+
 
 
 ## Project overview
