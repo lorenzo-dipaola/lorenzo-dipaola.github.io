@@ -4,7 +4,6 @@ permalink: /projects/vivo/
 author_profile: true
 ---
 
-# ViVo – Visualising Voices
 
 ## Project overview
 
@@ -46,6 +45,33 @@ The performative model remediated by* Corriere dei Piccoli.
 ![Corriere dei Piccoli page with rhymed captions](/images/vivo-cdp-captions.jpg)
 
 *A page from* Corriere dei Piccoli *showing the use of rhymed captions instead of speech balloons.*
+
+---
+
+## Phase 2 – Visual pedagogy and the colonial gaze
+
+The second phase of ViVo extends the analysis from formal questions to issues of representation and ideology. At this stage, the project examines how *Corriere dei Piccoli* contributed to shaping a **visual pedagogy of race and otherness** in the early twentieth century.
+
+Through the analysis of characters such as *BilBolBul*, *I tre Cinesini*, and *Il Negro Tom*, the research shows how racialised bodies were transformed into comic spectacle. Humour, visual deformation, and linguistic stereotyping work together to present the colonial “Other” as harmless, entertaining, and fundamentally different.
+
+Presented at the conference *Comics and the Politics of Looking* (Ghent, 2025), this phase combines visual culture studies and postcolonial perspectives to show how children’s comics functioned as a form of “soft” pedagogy in a period marked by colonial expansion and national identity building.
+
+---
+
+![BilBolBul, Corriere dei Piccoli (1908–1909)](/images/vivo-bilbolbul.jpg)
+
+*BilBolBul*, created by Attilio Mussino, is one of the earliest iconic characters of Italian comics.  
+His Black body, constantly subjected to comic transformations and literalised linguistic gags, becomes a surface onto which racial stereotypes and colonial anxieties are projected, within an apparently playful and pedagogical framework.
+
+---
+
+## Phase 3 – Media ecology and cultural domestication
+
+The third phase of ViVo adopts a media-ecological perspective, situating *Corriere dei Piccoli* within the broader Italian media ecosystem of the early twentieth century.
+
+Rather than focusing on individual characters or stories, this phase examines the magazine as an **environment** in which narratives, images, pedagogical discourse, and advertising operate together. Particular attention is paid to processes of **cultural domestication**, through which international comics models were adapted to Italian moral and educational frameworks.
+
+Case studies such as the transformation of *Buster Brown* into *Mimmo* and the Italian reinterpretation of *Little Nemo* show how global visual forms were reshaped to support a national project of childhood education and cultural regulation. This phase was presented at the conference *Popular Cultures* (Messina, 2025).
 
 ---
 
