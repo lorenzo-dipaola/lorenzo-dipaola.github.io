@@ -8,6 +8,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Research Networks"
+    url: /research-networks/
+
   - title: "Talks"
     url: /talks/
 
