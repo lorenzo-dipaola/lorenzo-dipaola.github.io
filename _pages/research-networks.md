@@ -1,3 +1,9 @@
+title: "Research Networks"
+permalink: /research-networks/
+---
+
+My research is developed within national and international research networks working on comics studies, media ecology, visual culture, and digital cultures.
+
 ## Research networks
 
 - **[SnIF – Studying ’n’ Investigating Fumetti](https://grupposnif.it/)**  
