@@ -40,7 +40,8 @@ In this sense, media panics function as sensitive indicators of the tensions sha
 
 ### ▣ Current research
 
-I am currently an FNRS Postdoctoral Researcher at the Université libre de Bruxelles, where I lead the project **ViVo – Visualising Voices**, devoted to the study of the remediation of orality in early illustrated children’s periodicals, with a particular focus on *Corriere dei Piccoli* (1908–1931).
+I am currently an FNRS Postdoctoral Researcher at the Université libre de Bruxelles, where I lead the project  
+**[ViVo – Visualising Voices](/projects/vivo/)**, devoted to the study of the remediation of orality in early illustrated children’s periodicals, with a particular focus on *Corriere dei Piccoli* (1908–1931).
 
 Alongside this project, I am completing the monograph *Panic in Comics* (forthcoming, Leuven University Press), which examines the moral regulation of comics in post-war Italy.
 
