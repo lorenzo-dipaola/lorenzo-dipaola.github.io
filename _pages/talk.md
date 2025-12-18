@@ -26,11 +26,9 @@ This page presents a selection of invited talks, conference papers, and academic
 ## 2024
 
 - **“Ebbene sì, maledetto Carter”: SuperGulp between Literature, Comics and Television**  
-  *Delitti e vignette. Il fumetto giallo italiano tra serialità, intermedialità e autorialità*  
   University of Chieti–Pescara “G. d’Annunzio” (Italy)
 
-- **Calypsis. Il mondo coperto**  
-  *Dopo la Catastrofe* – PRIN PNRR 2022 PANIC  
+- **Calypsis. Il mondo coperto**   
   University of Naples Federico II (Italy)
 
 - **Workshop: New Technologies**  
@@ -38,7 +36,6 @@ This page presents a selection of invited talks, conference papers, and academic
   Universidade do Minho (Portugal)
 
 - **Mondo Pistola! A Mediological Analysis of the Italian Western Comic**  
-  *America on Our Pages: Italian Comics and the Myth of America*  
   University of Toronto (Canada)
 
 - **Between Ruins and Possible Worlds: The Post-Apocalyptic between Comics and TV Series**  
@@ -51,7 +48,6 @@ This page presents a selection of invited talks, conference papers, and academic
 ## 2023
 
 - **Comics as Sex Machine. Retracing Italian Soft-Core Comics from the 1970s to the Present**  
-  *Better Living Through Comics* – Joint Conference of IGNCC & IBD  
   University of Cambridge (UK)
 
 ## 2022
@@ -62,13 +58,11 @@ This page presents a selection of invited talks, conference papers, and academic
 - **From Print to Digital: Histories and Paths of an Inafferrable Medium**  
   University of L’Aquila – Centre for Transcodification Studies – *Invited*
 
-- **New Forms and Reading Protocols: For a Genealogy of Digital Comics**  
-  *Comics Strike Back: Digital Comics, Digital Audiences, Digital Practices*  
+- **New Forms and Reading Protocols: For a Genealogy of Digital Comics**    
   Ghent University (Belgium)
 
 - **At the Origins of Digital Comics: Imaginaries and Media History of the First Intersections  
-  between Comics and Digital Media**  
-  *Comics Strike Back: Digital Comics, Digital Audiences, Digital Practices*  
+  between Comics and Digital Media**    
   Ghent University (Belgium), 12–14 July 2022
 
 - **What Do We Mean When We Talk about Graphic Novels?**  
