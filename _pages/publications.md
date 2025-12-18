@@ -7,7 +7,8 @@ author_profile: true
 ## Monographs
 
 **L’inafferrabile medium. Una cartografia delle teorie del fumetto dagli anni Venti a oggi**  
-Alessandro Polidoro Editore, 2019.
+Alessandro Polidoro Editore, 2019.  
+[Publisher’s website](https://www.alessandropolidoroeditore.it/libreria/fuori-collana/linafferrabile-medium-di-lorenzo-di-paola/)
 
 ---
 
