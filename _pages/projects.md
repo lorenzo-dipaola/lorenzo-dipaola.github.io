@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 **Current projects**
-- **ViVo – Visualising Voices** (FNRS-funded project, ULB)
+- [ViVo – Visualising Voices](/projects/vivo/) (FNRS-funded project, ULB)
+
 
 
