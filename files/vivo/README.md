@@ -1,2 +1,0 @@
-# ViVo project materials
-
