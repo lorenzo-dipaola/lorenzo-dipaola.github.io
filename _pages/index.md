@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Home"
+title: "Lorenzo Di Paola | Comics Studies and Media Ecology"
+description: "Academic website of Lorenzo Di Paola, FNRS postdoctoral researcher at Université libre de Bruxelles. Research on comics studies, media ecology, visual culture, and cultural sociology."
 permalink: /
 author_profile: true
 ---
+
 ### ◉ Where I start from
 
 My research trajectory began with an interest in comics, understood not as a specialised genre or a self-contained language, but as an anomalous cultural object: a popular and often marginal medium, historically positioned at the crossroads of education, entertainment, and symbolic power.
