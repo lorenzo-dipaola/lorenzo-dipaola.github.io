@@ -19,5 +19,5 @@ author_profile: true
 ---
 
 ## Exploratory & Independent Research
-- **[Sports, Media & Comics](/sports-media-comics/)**  
+- **[Sports, Media & Comics](/projects/sport/)**  
   *Independent research line on the intersections between sports cultures, media ecologies, and verbo-visual narratives.*
