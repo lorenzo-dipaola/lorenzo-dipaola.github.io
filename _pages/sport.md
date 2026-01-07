@@ -72,3 +72,18 @@ The *Sports, Media & Comics* research line aims to develop:
 
 This project positions sports narratives as a key observatory for understanding how media ecologies evolve, how bodies become symbolic infrastructures, and how contemporary culture negotiates identity, visibility, and collective imagination through sport.
 
+## Key Publications
+
+- **Di Paola, L. (2025). *For a Fistful of Fame: Carnera at the Intersection of Sports and Entertainment*. Mediascapes Journal, 25(1), 131–144.**  
+  [Full text (open access)](https://rosa.uniroma1.it/rosa03/mediascapes/article/view/19101)
+
+- **Di Paola, L. (2023). “Sport e fumetto, il panorama italiano”. In Bifulco L., Formisano A., Panico G., Tirino M. (a cura di), *Sport e comunicazione nell’era digitale. Media, processi, attori*, pp. 68–73. Milano: FrancoAngeli.**  
+  [Publisher page](https://www.francoangeli.it/Libro/Sport-e-comunicazione-nell%27era-digitale-Media,-processi,-attori?Id=28505)
+
+### Conference Presentations
+
+- **“Genealogie del racconto sportivo mediale: dal *Corriere dei Ragazzi* alle Sport-Series”**  
+  *Popular Cultures*, Università di Messina, October 2025
+
+
+
