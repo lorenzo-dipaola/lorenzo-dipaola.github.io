@@ -97,5 +97,58 @@ they take what already exists and **reshape it**, redistributing its social, cul
 This perspective challenges the simplistic narratives of innovation and disruption, offering a more grounded understanding of how digital ecosystems integrate with — and transform — long-standing cultural practices.
 
 ---
+## Key publications
+
+These publications represent the main outputs and research directions developed within *Le dinamiche digitali della rifunzionalizzazione* (Università di Messina, 2021–2023).
+
+---
+
+### • From Virtual Reality to Augmented Reality: Devices, Bodies, Places and Relationships  
+**M. Centorrino, J. Condemi, L. Di Paola, C. Ferrigno**  
+*IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)*, Bari, 2021.  
+doi: 10.1109/ISMAR-Adjunct54149.2021.00011  
+🔗 https://ieeexplore.ieee.org/abstract/document/9585871  
+
+---
+
+### • Nuovi spazi immaginari: realtà virtuale e realtà aumentata tra aree museali e arte contemporanea  
+**M. Centorrino, L. Di Paola**  
+in *Orizzonti Medi-terranei*, Franco Angeli, 2022, pp. 133–149.  
+🔗 https://hdl.handle.net/11570/3239638  
+
+---
+
+### • L’opera d’arte nell’era della sua colonizzazione. I rischi del Metaverso  
+**M. Centorrino, L. Di Paola**  
+*Im@go. A Journal of the Social Imaginary*, n.19, 2022, pp. 195–209.  
+🔗 https://cab.unime.it/journals/index.php/IMAGO/article/view/3583  
+
+---
+
+### • Conoscere il metaverso: device, corpi, luoghi e relazioni  
+**M. Centorrino, L. Di Paola, J. Condemi, C. Ferrigno**  
+*Complessità*, Rivista del Centro Studi Internazionale di Filosofia della Complessità “Edgar Morin”, n.1, 2023, pp. 34–72.  
+🔗 https://iris.unime.it/handle/11570/3250913  
+
+---
+
+### • Dalla Chickie-Run alla challenge di Casal Palocco: piattaforme, content creator e immaginari  
+**M. Centorrino, L. Di Paola**  
+*Im@go. A Journal of the Social Imaginary*, 2023, pp. 297–313.  
+🔗 https://cab.unime.it/journals/index.php/IMAGO/article/view/4071  
+
+---
+
+### • La platformizzazione dell’esperienza ciclistica: i casi Zwift e Strava  
+**M. Tirino, L. Di Paola, S. Castellano**  
+in *Bici e società. Pratiche e culture di velomobilità*, Franco Angeli, 2024, pp. 113–138.  
+🔗 https://hdl.handle.net/11386/4863874  
+
+---
+
+### • Il mondo nuovo del Metaverso. Visioni, possibilità e disastri  
+**L. Di Paola**  
+in *Il Metaverso. Profili strutturali, socio-mediologici, economici e giuridici*, Mimesis, 2025, pp. 123–138.  
+🔗 https://www.mimesisedizioni.it/libro/9791222323756  
 
 
