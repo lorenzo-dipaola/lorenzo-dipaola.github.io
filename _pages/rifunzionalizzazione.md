@@ -23,7 +23,8 @@ A core part of the project explored how VR and AR devices recalibrate perception
 
 These reflections emerged from the analysis of VR cycling systems, immersive training apps, and mixed-reality narrative forms, showing how digital systems reorganise the boundaries between physical exertion, simulation, and social connection.
 
-![Indoor cycling and gamified platforms like Zwift](/assets/images/zwift_cycling.jpg)
+![Indoor cycling and gamified platforms like Zwift](/images/zwift_cycling.jpg)
+
 
 ---
 
@@ -78,7 +79,8 @@ The project also examined how the pandemic accelerated the **integration of digi
 
 Digital systems thus operate as *refunctionalizers* of ordinary life: instead of replacing previous habits, they reorganise them, giving new meanings to old practices.
 
-![Child exploring VR interfaces](/assets/images/vr_child_dna.jpg)
+![Child using VR headset and interacting with a mixed-reality DNA model](/images/vr_child_dna.jpg)
+
 
 ---
 
