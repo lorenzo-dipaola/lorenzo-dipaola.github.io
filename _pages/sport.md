@@ -5,7 +5,6 @@ permalink: /projects/sport/
 author_profile: true
 ---
 
-# Sports, Media & Comics – Research Line
 
 This research line investigates the intersections between sports, media, and verbo-visual narratives, focusing on how athletic bodies, sporting practices, and celebrity cultures have been represented, spectacularised, and symbolically negotiated across different media ecologies.  
 The project aims to reconstruct a long-term, critical genealogy of sports storytelling, tracing continuities and ruptures from early illustrated journalism to contemporary digital platforms.
