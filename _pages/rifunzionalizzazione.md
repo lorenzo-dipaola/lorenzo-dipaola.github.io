@@ -78,7 +78,7 @@ The project also examined how the pandemic accelerated the **integration of digi
 
 Digital systems thus operate as *refunctionalizers* of ordinary life: instead of replacing previous habits, they reorganise them, giving new meanings to old practices.
 
-![Child exploring VR interfaces with molecular visualizations](/assets/images/vr_child_dna.jpg)
+![Child exploring VR interfaces](/assets/images/vr_child_dna.jpg)
 
 ---
 
