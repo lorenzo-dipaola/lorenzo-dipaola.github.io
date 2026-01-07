@@ -12,7 +12,7 @@ The project aims to reconstruct a long-term, critical genealogy of sports storyt
 
 ## Sport as a Media Imaginary and Narrative Laboratory
 
-{% include figure image="/assets/images/projects/sports/sport1.jpg" %}
+!(/images/sport1.jpg)
 
 Sport has long produced a dense symbolic repertoire of heroes, rituals, emotions, and collective myths. At the same time, it has played a central role in shaping the evolution of mass media.  
 Its spectacular nature — grounded in bodily exceptionality and the unpredictability of live performance — found in comics, illustration, and popular print culture a privileged laboratory for experimenting with new narrative forms.
@@ -21,7 +21,7 @@ Before the rise of television, sports-themed comics oscillated between heroic ad
 
 ## Athletic Celebrity and Mediatization
 
-{% include figure image="/assets/images/projects/sports/sport3.jpg" %}
+!(/images/sport3.jpg)
 
 This research also explores how athletic fame is produced, circulated, and reconfigured over time, drawing on sports sociology, celebrity studies, and mediology.  
 The modern athlete becomes a celebrity when their body and image circulate as narrative, affective, and commercial objects — symbolic entities shaped by media grammars and audience expectations.
@@ -30,7 +30,7 @@ The project examines how sports figures have been mobilised as symbols of nation
 
 ## Athletic Bodies, Spectacle, and Cross-Media Storytelling
 
-{% include figure image="/assets/images/projects/sports/sport2.jpg" %}
+!(/images/sport2.jpg)
 
 A core focus concerns the athletic body as a symbolic and narrative surface: a body that can be celebrated, spectacularised, normalised, or framed as extraordinary.  
 Analysing comics, illustrated biographies, print journalism, film, and television reveals how athletes are continually reinscribed within evolving regimes of visibility — from pedagogical youth magazines to hyper-realistic digital sports docu-series.
@@ -39,7 +39,7 @@ Television, in particular, transformed sports storytelling by introducing a grea
 
 ## Genealogies of Sports Storytelling: From Comics to Sport-Series
 
-{% include figure image="/assets/images/projects/sports/sport4.jpg" %}
+!(/images/sport4.jpg)
 
 A central aim of this research is to reconstruct a media genealogy of sports narration:
 
@@ -52,7 +52,7 @@ This genealogy is not linear. Instead, it reveals recurrences and transformation
 
 ## Toward an Integrated Model: Sport as Media Ecology
 
-{% include figure image="/assets/images/projects/sports/sport5.jpg" %}
+!(/images/sport5.jpg)
 
 The theoretical framework is rooted in media ecology:  
 sport is understood as a communicative environment shaped by — and shaping — the media that represent it.
