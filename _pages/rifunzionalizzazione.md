@@ -4,7 +4,7 @@ permalink: /projects/rifunzionalizzazione/
 author_profile: true
 ---
 
-# Le dinamiche digitali della rifunzionalizzazione  
+ 
 **Università di Messina (2021–2023)**
 
 This research project investigated how digital technologies reshape pre-existing cultural practices, media forms, and everyday routines.  
