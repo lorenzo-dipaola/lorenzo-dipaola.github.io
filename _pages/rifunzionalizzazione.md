@@ -37,7 +37,6 @@ The project examined how digital platforms generate **new spatial logics** where
 
 These changes were conceptualised as a shift from “places” to **media-shaped environments**, where the experience of being somewhere is co-structured by interfaces, data, and platform architectures.
 
-*Suggested image:* a diagram or illustration showing overlapping physical/digital spaces.
 
 ---
 
