@@ -84,6 +84,7 @@ This project positions sports narratives as a key observatory for understanding 
 
 - **“Genealogie del racconto sportivo mediale: dal *Corriere dei Ragazzi* alle Sport-Series”**  
   *Popular Cultures*, Università di Messina, October 2025
+    [Download presentation (PDF)](/files/CDR.pdf)
 
 
 
