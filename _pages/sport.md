@@ -16,6 +16,7 @@ Sport has long produced a dense symbolic repertoire of heroes, rituals, emotions
 Its spectacular nature — grounded in bodily exceptionality and the unpredictability of live performance — found in comics, illustration, and popular print culture a privileged laboratory for experimenting with new narrative forms.
 
 Before the rise of television, sports-themed comics oscillated between heroic adventure and the celebration of physical strength, often transforming athletes into mythic figures projected into exaggerated narrative worlds. Illustrated sports journalism and the early visual chronicle — precursors of the televised replay — contributed to fixing key gestures, poses, and archetypes that still inform today’s sports iconography.
+(/images/sport1.jpg)
 
 ## Athletic Celebrity and Mediatization
 
