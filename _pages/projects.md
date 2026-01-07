@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
+
 
 ## Current Projects
 - **[ViVo – Visualising Voices](/projects/vivo/)**  
