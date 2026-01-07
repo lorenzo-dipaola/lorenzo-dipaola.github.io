@@ -23,7 +23,7 @@ A core part of the project explored how VR and AR devices recalibrate perception
 
 These reflections emerged from the analysis of VR cycling systems, immersive training apps, and mixed-reality narrative forms, showing how digital systems reorganise the boundaries between physical exertion, simulation, and social connection.
 
-*Suggested image:* a VR or AR headset, or a Zwift-style virtual cycling scene.
+![Indoor cycling and gamified platforms like Zwift](/assets/images/zwift_cycling.jpg)
 
 ---
 
@@ -66,7 +66,6 @@ Drawing on case studies on cycling platforms and digital sports communities, the
 
 These observations reveal a broader tendency: the digitalisation of sport generates **new modes of belonging**, where individuality and collectivity are mediated by numbers, aesthetics, and gamified environments.
 
-*Suggested image:* screenshot or visual of a cycling platform, leaderboard, or gamified interface.
 
 ---
 
@@ -79,6 +78,8 @@ The project also examined how the pandemic accelerated the **integration of digi
 - a reliance on digital environments to structure temporal rhythms and social bonds.
 
 Digital systems thus operate as *refunctionalizers* of ordinary life: instead of replacing previous habits, they reorganise them, giving new meanings to old practices.
+
+![Child exploring VR interfaces with molecular visualizations](/assets/images/vr_child_dna.jpg)
 
 ---
 
@@ -97,13 +98,4 @@ This perspective challenges the simplistic narratives of innovation and disrupti
 
 ---
 
-## ◼︎ Images (optional)
 
-To enrich the page visually, you may include:
-
-- A VR/AR interface or headset (for embodiment section)  
-- A diagram of physical/digital hybrid spaces  
-- Zwift-like virtual cycling screenshots (for sports digitalisation)  
-- A conceptual illustration on platforms and imaginaries  
-
-Let me know if you want me to **prepare the images**, add captions, or create alt-text.
