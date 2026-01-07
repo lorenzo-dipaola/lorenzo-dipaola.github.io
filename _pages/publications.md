@@ -14,6 +14,10 @@ Alessandro Polidoro Editore, 2019.
 
 ## Peer-reviewed journal articles
 
+Di Paola, L. (2026). *Comics, Moral Panic and Cultural Regulation in Italy: The Anti-Comics Movement of the 1950s*.  
+**Journal of Italian Cinema & Media Studies**, 14(1), 53–70.  
+[Full text](https://intellectdiscover.com/content/journals/10.1386/jicms_00358_1)
+
 Di Paola, L. (2025). *For a Fistful of Fame: Carnera at the Intersection of Sports and Entertainment*.  
 **Mediascapes Journal**, 25(1), 131–144.  
 [Full text](https://rosa.uniroma1.it/rosa03/mediascapes/article/view/19101/18084)
