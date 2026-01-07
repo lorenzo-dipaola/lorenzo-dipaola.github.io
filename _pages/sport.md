@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Sports, Media & Comics
 permalink: /projects/sport/
 author_profile: true
----
 ---
 
 # Sports, Media & Comics – Research Line
