@@ -24,6 +24,7 @@ This research also explores how athletic fame is produced, circulated, and recon
 The modern athlete becomes a celebrity when their body and image circulate as narrative, affective, and commercial objects — symbolic entities shaped by media grammars and audience expectations.
 
 The project examines how sports figures have been mobilised as symbols of national identity, political rhetoric, and cultural values. Strength, discipline, sacrifice, or bodily extraordinariness are reframed differently depending on the media format, becoming tools for negotiating norms, masculinity, heroism, and civic ideals.
+(/images/sport3.jpg)
 
 ## Athletic Bodies, Spectacle, and Cross-Media Storytelling
 
@@ -42,6 +43,7 @@ A central aim of this research is to reconstruct a media genealogy of sports nar
 - and finally to contemporary sport-series on digital platforms.
 
 This genealogy is not linear. Instead, it reveals recurrences and transformations: many narrative logics typical of comics — episodic rhythm, character construction, visual montage, pedagogical tone — persist today in streaming sport-series that blend backstage access, interviews, data, chronicle, and memory.
+(/images/sport2.jpg)
 
 ## Toward an Integrated Model: Sport as Media Ecology
 
@@ -50,6 +52,7 @@ sport is understood as a communicative environment shaped by — and shaping —
 
 In this sense, comics are not merely containers of sports stories, but nodes within a larger ecosystem that includes print culture, radio, television, cinema, digital platforms, and streaming media.  
 The project seeks to build a theoretical model capable of explaining how sports storytelling evolves across different technological, industrial, and cultural environments.
+(/images/sport4.jpg)
 
 ## Future Directions
 
