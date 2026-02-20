@@ -77,7 +77,110 @@ Rather than focusing on individual characters or stories, this phase examines th
 Case studies such as the transformation of *Buster Brown* into *Mimmo* and the Italian reinterpretation of *Little Nemo* show how global visual forms were reshaped to support a national project of childhood education and cultural regulation. This phase was presented at the conference *Popular Cultures* (Messina, 2025).
 
 ---
+## Interactive Data Dashboard: Corriere dei Piccoli (1908-1909)
 
+<div class="dashboard-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px; margin-top: 20px;">
+    <div class="chart-box" style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 45%; min-width: 300px;">
+        <canvas id="autoriChart"></canvas>
+    </div>
+    <div class="chart-box" style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 45%; min-width: 300px;">
+        <canvas id="categorieChart"></canvas>
+    </div>
+</div>
+
+<div class="table-box" style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 40px; overflow-x: auto;">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <table id="dataTable" class="display" style="width:100%; text-align: left; font-size: 0.9em;">
+        <thead>
+            <tr>
+                <th>Numero</th>
+                <th>Pagina</th>
+                <th>Categoria</th>
+                <th>Titolo Opera</th>
+                <th>Autore</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+<script>
+    Papa.parse("/files/vivo/dati-cdp.csv", {
+        download: true,
+        header: true,
+        skipEmptyLines: true,
+        complete: function(results) {
+            let data = results.data;
+            let tableBody = "";
+            let autoriCount = {};
+            let categorieCount = {};
+
+            data.forEach(row => {
+                tableBody += `<tr>
+                    <td>${row['Numero'] || ''}</td>
+                    <td>${row['Data.Pagina'] || ''}</td>
+                    <td>${row['Data.Categoria'] || ''}</td>
+                    <td>${row['Data.Titolo Opera / Sezione'] || ''}</td>
+                    <td>${row['Data.Autore (Testi/Disegni)'] || ''}</td>
+                </tr>`;
+
+                let autore = row['Data.Autore (Testi/Disegni)'];
+                if(autore && autore !== 'N.D.') {
+                    autoriCount[autore] = (autoriCount[autore] || 0) + 1;
+                }
+                let categoria = row['Data.Categoria'];
+                if(categoria) {
+                    categorieCount[categoria] = (categorieCount[categoria] || 0) + 1;
+                }
+            });
+
+            document.querySelector("#dataTable tbody").innerHTML = tableBody;
+            
+            $('#dataTable').DataTable({
+                pageLength: 10,
+                language: { url: "//cdn.datatables.net/plug-ins/1.13.6/i18n/en-GB.json" }
+            });
+
+            let autoriArray = Object.keys(autoriCount).map(key => ({ nome: key, conteggio: autoriCount[key] }));
+            autoriArray.sort((a, b) => b.conteggio - a.conteggio);
+            let top10Autori = autoriArray.slice(0, 10);
+
+            new Chart(document.getElementById('autoriChart'), {
+                type: 'bar',
+                data: {
+                    labels: top10Autori.map(a => a.nome),
+                    datasets: [{
+                        label: 'Publications',
+                        data: top10Autori.map(a => a.conteggio),
+                        backgroundColor: '#3498db'
+                    }]
+                }
+            });
+
+            let categorieArray = Object.keys(categorieCount).map(key => ({ nome: key, conteggio: categorieCount[key] }));
+            categorieArray.sort((a, b) => b.conteggio - a.conteggio);
+            let topCategorie = categorieArray.slice(0, 6);
+
+            new Chart(document.getElementById('categorieChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: topCategorie.map(c => c.nome),
+                    datasets: [{
+                        data: topCategorie.map(c => c.conteggio),
+                        backgroundColor: ['#e74c3c', '#2ecc71', '#f1c40f', '#9b59b6', '#34495e', '#e67e22']
+                    }]
+                }
+            });
+        }
+    });
+</script>
+
+---
 ## Key publication
 
 - **La bande chantée: tradition orale et croyances pédagogiques dans le *Corriere dei Piccoli***  
